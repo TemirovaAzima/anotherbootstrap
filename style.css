@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navbar */
+
+.button{
+    border: 1px solid #28cb8b;
+    color: #28cb8b;
+    padding: 10px;
+    font-weight: bold;
+    background: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.button2{
+    border: none;
+    background-color: #4CAF4F;
+    color: white;
+    padding: 10px ;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+/* .buttons{
+    margin-left: 20%;
+} */
+ /* banner */
+#banner{
+    padding: 10% 0;
+}
+#banner h1 span{
+    color: #4CAF4F;
+}
+#banner p{
+    color: #717171;
+}
